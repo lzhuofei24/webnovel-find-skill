@@ -24,6 +24,7 @@
 
 - `SKILL.md`：完整的找书流程、容错规则和证据标准。
 - `references/yousuu.md`：书评数据库的准备、合并和扫描方法。
+- `SOURCES.md`：优书网备份及相关数据集的来源与引用格式。
 - `scripts/scan_reviews.py`：读取 SQLite 或 CSV 书评数据并生成候选结果。
 - `agents/openai.yaml`：Codex 界面显示信息。
 
