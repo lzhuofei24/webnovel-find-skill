@@ -1,0 +1,3 @@
+interface:
+  display_name: "网络小说找书"
+  short_description: "根据剧情记忆反查网络小说，结合书评备份筛选候选并核验原文"
